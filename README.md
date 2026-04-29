@@ -1,4 +1,3 @@
-<img width="781" height="426" alt="usecase диаграмма drawio" src="https://github.com/user-attachments/assets/c00b85e4-9832-4feb-a634-c65336e8ea73" /><img width="781" height="426" alt="usecase диаграмма drawio" src="https://github.com/user-attachments/assets/a4c78748-f8bc-4cd6-8bc7-4b35f1d45a86" />
 ## 1. НАЗВАНИЕ ПРОЕКТА
 
 **«ProЗож: здоровье и спорт для каждого»**  
