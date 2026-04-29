@@ -62,3 +62,4 @@
 - **GitHub** — хранение кода, ТЗ, диаграмм и возможных доработок.  
 - HTML5, CSS3, JavaScript — для внешнего вида и интерактива.  
 <img width="781" height="426" alt="usecase диаграмма drawio" src="https://github.com/user-attachments/assets/3b590fba-bddd-4ad0-95ff-8508c2689300" />
+<img width="581" height="91" alt="DD диаграмма drawio" src="https://github.com/user-attachments/assets/62c5c5a0-3694-4944-a5ba-10478e46d5ab" />
