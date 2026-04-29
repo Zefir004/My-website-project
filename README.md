@@ -1,3 +1,4 @@
+<img width="781" height="426" alt="usecase диаграмма drawio" src="https://github.com/user-attachments/assets/c00b85e4-9832-4feb-a634-c65336e8ea73" /><img width="781" height="426" alt="usecase диаграмма drawio" src="https://github.com/user-attachments/assets/a4c78748-f8bc-4cd6-8bc7-4b35f1d45a86" />
 ## 1. НАЗВАНИЕ ПРОЕКТА
 
 **«ProЗож: здоровье и спорт для каждого»**  
@@ -57,8 +58,8 @@
 - Быть быстрым и понятным даже на медленном интернете.  
 
 ## 5. ТЕХНОЛОГИИ
-
 - **LAMP (Linux + Apache + MySQL + PHP)** — серверная платформа, на которой сайт будет работать.  
 - **WordPress** — система управления содержимым (CMS), чтобы удобно добавлять статьи без программирования.  
 - **GitHub** — хранение кода, ТЗ, диаграмм и возможных доработок.  
 - HTML5, CSS3, JavaScript — для внешнего вида и интерактива.  
+<img width="781" height="426" alt="usecase диаграмма drawio" src="https://github.com/user-attachments/assets/3b590fba-bddd-4ad0-95ff-8508c2689300" />
