@@ -61,6 +61,7 @@
 - **WordPress** — система управления содержимым (CMS), чтобы удобно добавлять статьи без программирования.  
 - **GitHub** — хранение кода, ТЗ, диаграмм и возможных доработок.  
 - HTML5, CSS3, JavaScript — для внешнего вида и интерактива.
+
 Диаграммы Use Case:
 <img width="781" height="426" alt="usecase диаграмма drawio" src="https://github.com/user-attachments/assets/3b590fba-bddd-4ad0-95ff-8508c2689300" />
 Deployment Diagram:
