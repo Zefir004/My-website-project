@@ -17,6 +17,9 @@
 На главной странице сайта отображается:
 
 > Добро пожаловать! Сегодня 05.05.2026
+> <img width="1540" height="539" alt="Снимок экрана от 2026-05-05 14-38-38" src="https://github.com/user-attachments/assets/fad023ca-ea9a-4246-ae9c-c6315a3694c9" />
+
 > <img width="1521" height="707" alt="Снимок экрана от 2026-05-05 14-40-09" src="https://github.com/user-attachments/assets/f6b254d1-7cc6-4b9e-ad9c-8ee344bc7c9c" />
+
 <img width="1505" height="692" alt="Снимок экрана от 2026-05-05 14-39-07" src="https://github.com/user-attachments/assets/41949a07-1957-4d0e-8b9c-431e98ceee93" />
-<img width="1540" height="539" alt="Снимок экрана от 2026-05-05 14-38-38" src="https://github.com/user-attachments/assets/fad023ca-ea9a-4246-ae9c-c6315a3694c9" />
+
