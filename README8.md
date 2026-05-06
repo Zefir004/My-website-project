@@ -1,3 +1,4 @@
+<img width="1525" height="723" alt="Снимок экрана от 2026-05-06 11-30-01" src="https://github.com/user-attachments/assets/69a1fe86-4388-409f-a9a5-dd0e90b87d93" />
 # Отчёт по тестированию форума (bbPress)
 
 ## Общая информация
@@ -71,7 +72,5 @@
 
 Форум успешно установлен, настроен и полностью функционирует. Все требования практики выполнены.
 Скриншоты:
-<img width="1363" height="914" alt="Снимок экрана от 2026-05-06 11-30-35" src="https://github.com/user-attachments/assets/1aa04d63-fcac-4541-8577-5c7e60a668fe" />
-
-<img width="1525" height="723" alt="Снимок экрана от 2026-05-06 11-30-01" src="https://github.com/user-attachments/assets/afd6aa43-58cd-4387-a911-0bbd426d16f8" />
+<img width="1525" height="723" alt="Снимок экрана от 2026-05-06 11-30-01" src="https://github.com/user-attachments/assets/1399f50a-f053-4104-916f-406941b3b220" />
 
