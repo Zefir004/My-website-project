@@ -1,4 +1,4 @@
-<img width="1525" height="723" alt="Снимок экрана от 2026-05-06 11-30-01" src="https://github.com/user-attachments/assets/69a1fe86-4388-409f-a9a5-dd0e90b87d93" />
+
 # Отчёт по тестированию форума (bbPress)
 
 ## Общая информация
@@ -74,3 +74,4 @@
 Скриншоты:
 <img width="1525" height="723" alt="Снимок экрана от 2026-05-06 11-30-01" src="https://github.com/user-attachments/assets/1399f50a-f053-4104-916f-406941b3b220" />
 
+<img width="1363" height="914" alt="Снимок экрана от 2026-05-06 11-30-35" src="https://github.com/user-attachments/assets/71040d6a-1f61-4913-b36a-3f1f389473d8" />
